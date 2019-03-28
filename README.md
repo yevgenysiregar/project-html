@@ -1,3 +1,3 @@
 # Project HTML
 
-Project HTML to implement yevgenysiregar website
+Project HTML for yevgenysiregar website
